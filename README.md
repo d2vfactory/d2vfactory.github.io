@@ -1,3 +1,17 @@
+# Jekyll 기본파일들
+|파일명|기능|
+|---|---|
+|_config.yml|설정파일|
+|_posts|블로그 포스팅|
+|_pages|개별 페이지|
+|_includes|글에 포함되는 개별 요소|
+|_layouts|글의 양식|
+|assets|image, css 등|
+|index.html|index 페이지|
+|---|---|
+
+
+
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)

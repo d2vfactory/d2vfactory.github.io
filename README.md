@@ -8,8 +8,8 @@
 |_layouts|글의 양식|
 |assets|image, css 등|
 |index.html|index 페이지|
-|---|---|
 
+---
 
 
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
